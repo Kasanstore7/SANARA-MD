@@ -50,7 +50,6 @@ module.exports = {
         }
         teks = global.footer + " *[ Beta✓ ]*\n\n"
 		  	teks += monospace(" ❏ Library : Baileys-MD") + "\n"
-		  	teks += monospace(" ❏ Author : " + "@" + config.owner[0].split("@")[0] )+ "\n"
 		  	teks += monospace(" ❏ Prefix : [ " + pref + " ]") + "\n\n"
 		  	teks += monospace(`Halo, @${sender.split("@")[0]} Here my Command`) +`\n\n`;
 		  	teks += `*乂 ${q.toUpperCase()}*\n`
@@ -77,7 +76,6 @@ module.exports = {
         }
 			menu = global.footer + " *[ Beta✓ ]*\n\n"
 			menu += monospace(" ❏ Library : Baileys-MD") + "\n"
-			menu += monospace(" ❏ Author : " + "@" + config.owner[0].split("@")[0] )+ "\n"
 			menu += monospace(" ❏ Prefix : [ " + pref + " ]") + "\n"
 			menu += monospace(" ❏ Date : " + date) + "\n"
 			menu += monospace(" ❏ Time : " + time) + "\n"
@@ -94,7 +92,7 @@ module.exports = {
 			  menu += `*乂 ${key.toUpperCase()}*\n`
 			  menu += `${category[key].map((cmd) => monospace(` × ${cmd.options.noPrefix ? "" : pref}${cmd.name} ${map.lockcmd.get(cmd.name) ? "❌" : ""}`)).join("\n")} ` + "\n\n"
 			}
-			menu += `*Thanks To:*\n• Senkuu\n•ZeraaID\n•Zynfinity\n•BOTCAHX\n\n`
+			menu += `*Thanks To:*\n•Senkuu\n•ZeraaID\n•Zynfinity\n•BOTCAHX\n\n`
 			menu += `_Note : Ketik ${prefix}help <command> untuk melihat info command_`
 			
 		/*	const buttons = [
