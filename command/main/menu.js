@@ -82,7 +82,7 @@ module.exports = {
 			menu += monospace(" ❏ Date : " + date) + "\n"
 			menu += monospace(" ❏ Time : " + time) + "\n"
 		  menu += monospace(" ❏ Speed :  " + processTime(msg.messageTimestamp, moment()) + " Seccond") + "\n\n"
-		  menu += "*This Bot script is : https://github.com/xzeera-id/Senkuu-MD*\n_Tanda ❌ berarti Error atau Fitur sedang Dinonaktifkan oleh Owner!!_\n\n"
+		  menu += "_Tanda ❌ berarti Error atau Fitur sedang Dinonaktifkan oleh Owner!!_\n\n"
 			menu += monospace(`Halo, @${sender.split("@")[0]} Here my Command List`) +`\n\n`;
 			const keys = Object.keys(category)
 			menu += "*乂 CATEGORY MENU*\n"
@@ -94,7 +94,7 @@ module.exports = {
 			  menu += `*乂 ${key.toUpperCase()}*\n`
 			  menu += `${category[key].map((cmd) => monospace(` × ${cmd.options.noPrefix ? "" : pref}${cmd.name} ${map.lockcmd.get(cmd.name) ? "❌" : ""}`)).join("\n")} ` + "\n\n"
 			}
-			menu += `*Thanks To:*\n• Senkuu\n•ZeraaID\n•Zynfinity\n\n`
+			menu += `*Thanks To:*\n• Senkuu\n•ZeraaID\n•Zynfinity\n•BOTCAHX\n\n`
 			menu += `_Note : Ketik ${prefix}help <command> untuk melihat info command_`
 			
 		/*	const buttons = [
