@@ -1,5 +1,4 @@
 require("./global")
-require("http").createServer((_, res) => res.end("Uptime!")).listen(8080)
 const fs = require("fs");
 const path = require("path");
 const { Boom } = require("@hapi/boom");
