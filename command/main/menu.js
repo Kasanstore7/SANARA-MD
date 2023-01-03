@@ -48,7 +48,7 @@ module.exports = {
 				  	category[cteg].push(info);
 		  		}
         }
-        teks = global.footer + " *[ SECURITY BOT ]*\n\n"
+        teks = global.footer + "\n"
 		  	teks += monospace(" ❏ Library : Baileys-MD") + "\n"
 		  	teks += monospace(" ❏ Prefix : [ " + pref + " ]") + "\n\n"
 		  	teks += monospace(`Halo, @${sender.split("@")[0]} Here my Command`) +`\n\n`;
@@ -74,7 +74,7 @@ module.exports = {
 			  		category[cteg].push(info);
 			  	}
         }
-			menu = global.footer + " *[ SECURITY BOT ]*\n\n"
+			menu = global.footer + "\n"
 			menu += monospace(" ❏ Library : Baileys-MD") + "\n"
 			menu += monospace(" ❏ Prefix : [ " + pref + " ]") + "\n"
 			menu += monospace(" ❏ Date : " + date) + "\n"
@@ -92,7 +92,7 @@ module.exports = {
 			  menu += `*乂 ${key.toUpperCase()}*\n`
 			  menu += `${category[key].map((cmd) => monospace(` × ${cmd.options.noPrefix ? "" : pref}${cmd.name} ${map.lockcmd.get(cmd.name) ? "❌" : ""}`)).join("\n")} ` + "\n\n"
 			}
-			menu += `*Thanks To:*\n•Senkuu\n•ZeraaID\n•Zynfinity\n•BOTCAHX\n\n`
+			menu += `*Thanks To:*\n•Senkuu\n•ZeraaID\n•Zynfinity\n\n\n© Wong Fei Hung\n\n`
 			menu += `_Note : Ketik ${prefix}help <command> untuk melihat info command_`
 			
 		/*	const buttons = [
