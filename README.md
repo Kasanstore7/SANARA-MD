@@ -1,12 +1,12 @@
 h1 align='center'>Welcome👋 :wave:</h1>
 
 <div align="center">
-<img src="https://telegra.ph/file/3024b63e3b52707d6a696.jpg" alt="SEENKU MD" width="300" />
+<img src="https://telegra.ph/file/c61fa5deff8e5fbb797da.jpg" alt="SEENKU MD" width="300" />
 <p align="center">
- <img src="https://komarev.com/ghpvc/?username=xzeera-id&color=blue&label=Views" />
+ <img src="https://komarev.com/ghpvc/?username=Kasanstore7&color=blue&label=Views" />
  </p>
 </p>
-<h1 align="center">Senkuu MD</h1>
+<h1 align="center">Sanara MD</h1>
 </div>
 
 ## Sorotan
@@ -23,7 +23,7 @@ h1 align='center'>Welcome👋 :wave:</h1>
 
 - Change [Config](https://github.com/xzeera-id/Senkuu-MD/blob/main/lib/config.json)
 - Tempat Session: lib/database/senku-md.json
-- Session Name: senku-md.json
+- Session Name: sanara-md.json
 - Button Gak Muncul? Update Baileys
 ( npm i github:adiwajshing/Baileys )
 
