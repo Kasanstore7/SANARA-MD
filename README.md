@@ -1,10 +1,10 @@
-# [Raxcel-bot MD](https://wa.me/6282140373458)
+# [Sanara-bot Md](https://wa.me/6283192405363)
 
 ---
 
-<a href="https://visitor-badge.glitch.me/badge?page_id=Kangsad01/bot-md"><img title="Visitor" src="https://visitor-badge.glitch.me/badge?page_id=Kangsad01/bot-md"></a>
-<a href="https://github.com/Kangsad01/bot-md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Kangsad01/bot-md?label=Forks&color=blue&style=flat-square"></a>
-<a href="https://github.com/Kangsad01/bot-md/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/Kangsad01/bot-md?label=Watchers&color=green&style=flat-square"></a>
+<a href="https://visitor-badge.glitch.me/badge?page_id=Kasanstore7/SANARA-MD"><img title="Visitor" src="https://visitor-badge.glitch.me/badge?page_id=Kasanstore7/SANARA-MD"></a>
+<a href="https://github.com/Kasanstore7/SANARA-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Kasanstore7/bot-md?label=Forks&color=blue&style=flat-square"></a>
+<a href="https://github.com/Kasanstore7/SANARA-MD/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/Kangsad01/bot-md?label=Watchers&color=green&style=flat-square"></a>
 <a href="https://github.com/Kangsad01/bot-md/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/Kangsad01/bot-md?label=Stars&color=yellow&style=flat-square"></a>
 <a href="https://github.com/Kangsad01/bot-md/graphs/contributors"><img title="Contributors" src="https://img.shields.io/github/contributors/Kangsad01/bot-md?label=Contributors&color=blue&style=flat-square"></a>
 <a href="https://github.com/Kangsad01/bot-md/issues"><img title="Issues" src="https://img.shields.io/github/issues/Kangsad01/bot-md?label=Issues&color=success&style=flat-square"></a>
