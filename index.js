@@ -8,7 +8,7 @@ const Readline = require('readline')
 const yargs = require('yargs/yargs')
 const rl = Readline.createInterface(process.stdin, process.stdout)
 
-CFonts.say('Bot-Md', {
+CFonts.say('Sanara-Md', {
   colors: ['#f2aa4c'],
   font: 'block',
   align: 'center',
