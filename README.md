@@ -1,194 +1,135 @@
-# [Sanara-bot Md](https://wa.me/6283192405363)
+## CATATAN
+Script ini gratis untuk semua orang, bukan untuk Dijual. Jika dijual neraka menunggumu Brother!!
+[![-----------------------------------------------------](https://raw.githubusercontent.com/Kasanstore7/readme/master/assets/lines/colored.png)](#table-of-contents)
+<p align="center">
+    <img src="https://telegra.ph/file/2bf3cabe7c337c5479172.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+</p>
 
----
+## PENTING
 
-<a href="https://visitor-badge.glitch.me/badge?page_id=Kasanstore7/SANARA-MD"><img title="Visitor" src="https://visitor-badge.glitch.me/badge?page_id=Kasanstore7/SANARA-MD"></a>
-<a href="https://github.com/Kasanstore7/SANARA-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Kasanstore7/bot-md?label=Forks&color=blue&style=flat-square"></a>
-<a href="https://github.com/Kasanstore7/SANARA-MD/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/Kangsad01/bot-md?label=Watchers&color=green&style=flat-square"></a>
-<a href="https://github.com/Kangsad01/bot-md/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/Kangsad01/bot-md?label=Stars&color=yellow&style=flat-square"></a>
-<a href="https://github.com/Kangsad01/bot-md/graphs/contributors"><img title="Contributors" src="https://img.shields.io/github/contributors/Kangsad01/bot-md?label=Contributors&color=blue&style=flat-square"></a>
-<a href="https://github.com/Kangsad01/bot-md/issues"><img title="Issues" src="https://img.shields.io/github/issues/Kangsad01/bot-md?label=Issues&color=success&style=flat-square"></a>
-<a href="https://github.com/Kangsad01/bot-md/issues?q=is%3Aissue+is%3Aclosed"><img title="Issues" src="https://img.shields.io/github/issues-closed/Kangsad01/bot-md?label=Issues&color=red&style=flat-square"></a>
-<a href="https://github.com/Kangsad01/bot-md/pulls"><img title="Pull Request" src="https://img.shields.io/github/issues-pr/Kangsad01/bot-md?label=PullRequest&color=success&style=flat-square"></a>
-<a href="https://github.com/Kangsad01/bot-md/pulls?q=is%3Apr+is%3Aclosed"><img title="Pull Request" src="https://img.shields.io/github/issues-pr-closed/Kangsad01/bot-md?label=PullRequest&color=red&style=flat-square"></a>
+> **Warning**: Script Ini Tidak Support Qr Untuk Saat Ini, Jadi Kalian Bisa Menggunakan Replit Untuk Mengambil Session Atau
+Memakai Sc Lain Untuk Mengambil Sessions Atau ambil sessions di https://replit.com/@tioclkp02/sessions
 
-## Join Group Diskusi
-[![BOT DISCUSSION GROUP](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/Fm6gRtvuCDN9abXVlfekAK) 
-**NO BOT**
+<h1 align="center">Saxia - MD</h1>
+<p align="center">
+  <a href="https://github.com/Kasanstore7"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Sanara+BOT+Multi+Device;Base+ori+by+Botcahx;Recode+By+Khasan dev;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="ʘᴗʘ">
+</p>
 
-
-## UNTUK PENGGUNA HEROKU
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kangsad01/bot-md)
-
-### Instal Buildpack
-* heroku/nodejs
-* https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git
-* https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git
-
-## UNTUK PENGGUNA RAILWAY
-
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FKangsad01%2Fbot-md)
-
-## UNTUK PENGGUNA REPLIT
-
-[![Run on Repl.it](https://repl.it/badge/github/FadliDarmawan/haruno)](https://repl.it/github/Kangsad01/bot-md)
-```cmd
-Buka Console
-------------
-> npm i
-> npm i qrcode
-> install-pkg webp
-> install-pkg ffmpeg
--------------
-Click Run
-```
-## FOR OKTETO
-
-* Okteto [`Click Here`](https://okteto.com)
-
-```bash
-Login with your github
-Click Launch Dev Environment
-Choose your repo
-```
-
+<p align="center">
+ <a href="#"><img title="sanara md" src="https://img.shields.io/badge/Whatshapp BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+</p>
+<p align="center">
+<a href="https://github.com/Kasanstore7"><img title="Author" src="https://img.shields.io/badge/AUTHOR-Kasanstore7-green.svg?style=for-the-badge&logo=github"></a>
 
 ---------
 
-## PANEL/RDP/VPS
+## ```Connect With Me 📞``` 
 
-* Amiruldev [`Click Here`](https://www.amiruldev.my.id)
+## ```Whatsapp``` <a href="https://wa.me/6285641142178"> <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
+[![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6283192405363) 
+---------
 
+### a little about this bot
+- ✔️ | **Simple** 
+- ✔️ | **Button Template** 
+- ✔️ | **Multi Auth** 
+- ✔️ | **Button Document(Experiment)** 
+---------
+### Some of the features include
+- ✔️ | Downloader 
+- ✔️ | Internet 
+- ✔️ | Game Rpg 
+- ✔️ | Nsfw 
+- ✔️ | Sticker 
+- ✔️ | Game 
+- ✔️ | Kerang Ajaib 
+- ✔️ | Quotes
+- ✔️ | Anime 
+- ✔️ | Premium 
+- ✔️ | Tools 
+- ✔️ | Exec 
+- ✔️ | React 
+- ✔️ | Menfess Balas
+---------
+
+## ```For User Panel, Buy Panel In This Number```
+[![WHATSAPP](https://img.shields.io/badge/Seller%20Panel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285641142178) 
+---------
+
+## ```USER RAILWAY```
+
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/Kasanstre7/XIA-BOT)
+
+## ```USER REPLIT```
+[EHEM COMING SOON:V)
 
 ---------
 
+## ```Nama Session```
+ (<sanara.bot.json>)
 
-## UNTUK PENGGUNA WINDOWS/VPS/RDP
+## `--self`
+* Activate self mode (Ignores other)
 
-* Unduh & Instal Git [`Klik Disini`](https://git-scm.com/downloads)
-* Unduh & Instal NodeJS [`Klik Disini`](https://nodejs.org/en/download)
-* Unduh & Instal FFmpeg [`Klik Disini`](https://ffmpeg.org/download.html) (**Jangan Lupa Tambahkan FFmpeg ke variabel lingkungan PATH**)
-* Unduh & Instal ImageMagick [`Klik Disini`](https://imagemagick.org/script/download.php)
+## `--pconly`
+* If that chat not from private bot, bot will ignore
 
-```bash
-git clone https://github.com/Kangsad01/bot-md
-cd bot-md
-npm i
-node .
-```
+## `--gconly`
+* If that chat not from group, bot will ignore
 
-## UNTUK PENGGUNA TERMUX
+## `--swonly`
+* If that chat not from status, bot will ignore
 
-* Download Termux [`Klik Disini`](https://github.com/termux/termux-app/releases/download/v0.118.0/termux-app_v0.118.0+github-debug_universal.apk)
-* Download node_modules [`Klik Disini`](https://www.mediafire.com/file/peyj19jiz4hq5qt/node_modules.zip/file)
+## `--prefix <prefixes>`
+* `prefixes` are seperated by each character
+Set prefix
 
-```
-$ pkg update && upgrade -y
-$ apt update && upgrade -y
-$ pkg install ffmpeg
-$ pkg install nodejs-lts
-$ pkg install git
-$ git clone https://github.com/Kangsad01/bot-md
-$ cd bot-md
-$ npm i
-$ node .
-```
+## `--server`
+* Used for [heroku](https://heroku.com/) or scan through website
+
+## `--restrict`
+* Enables restricted plugins (which can lead your number to be **banned** if used too often)
+* Group Administration `add, kick`
+
+## `--img`
+* Enable image inspector through terminal
+
+## `--autoread`
+* If enabled, all incoming messages will be marked as read
+
+## `--nyimak`
+* No bot, just print received messages and add users to database
+
+## `--test`
+* **Development** Testing Mode
 
 ---------
 
+### 📮 S&K
+1. Not For Sale
+2. Don't forget give star this repo
+3. Follow Github
+4. Don't use this repository wrong!
+5. If you have problem chat me in owner number
 
-## Arguments `node . [--options] [<session name>]` 
+---------
 
-### `--session <nama file>`
+### ❗ Note : Untuk apikey kamu bisa beli ke website itu sendiri :D
 
-menggunakan session dari nama file yang berbeda, default `session.data.json`
+---------
 
-contoh nama file `raxcel.json` maka penggunaannya `node . --session 'raxcel'`
+## ```Thanks to ✨```
+* [`Allah SWT`](https://github.com/Kasanstore7)
+* [`My parents`](https://github.com/Kasanstore7)
+* [`All Friends`](https://github.com/Kasanstore7)
+* [`All Contributors`](https://github.com/Kasanstore7)
+* [`All Creator Bot`](https://github.com/Kasanstore7)
+* [`Adiwajshing`](https://github.com/adiwajshing/Baileys)
+* [`Nurutomo`](https://github.com/nurutomi)
+* [`BochilGaming`](https://github.com/bochilgaming)
+* [`TIO`](https://github.com/BOTCAHX) 
+* [`MARCEL`](https://github.com/Mshunone) 
+* [`Khasan dev.01`](https://github.com/Kasanstore7) 
 
-### `--prefix <prefix>`
-
-* `prefixes` dipisahkan oleh masing-masing karakter
-Setel awalan
-
-### `--server`
-
-Digunakan untuk [heroku](https://heroku.com/) atau pindai melalui situs web
-
-### `--db <json-server-url>`
-
-menggunakan db eksternal alih-alih db lokal, **disarankan** menggunakan mongodb
-
-contoh server dengan mongodb `mongodb+srv://<username>:<password>@name-of-your-db.thhce.mongodb.net/myFirstDatabase?retryWrites=true&w=majority`
-
-contoh server dengan repl `https://json-server.nurutomo.repl.co/`
-
-kode: `https://repl.it/@Nurutomo/json-server`
-
-`node . --db 'https://json-server.nurutomo.repl.co/'`
-
-server harus memiliki spesifikasi seperti ini
-
-#### GET
-
-```http
-GET /
-Accept: application/json
-```
-
-#### POST
-
-```http
-POST /
-Content-Type: application/json
-
-{
- data: {}
-}
-```
-
-### `--big-qr`
-
-Jika qr unicode kecil tidak mendukung
-
-### `--img`
-
-Aktifkan pemeriksa gambar melalui terminal
-
-### `--test`
-
-**Development** Testing Mode
-
-### `--trace`
-
-```js
-conn.logger.level = 'trace'
-```
-
-### `--debug`
-
-```js
-conn.logger.level = 'debug'
-```
-#### Thanks To 
-**Allah SWT**,
-
-**Orang Tua**,
-
-**All Team Bot Discussion**,
-
-**Semua yang selalu mendukung**
-
-
-##### Special Thanks to
-[![Nurutomo](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo)
-[![BochilGaming](https://github.com/BochilGaming.png?size=100)](https://github.com/BochilGaming)
-
-###### Contributor
-[![Fokus ID](https://github.com/fokusdotid.png?size=100)](https://github.com/fokusdotid)
-[![Aniq](https://github.com/aniq12.png?size=100)](https://github.com/aniq12)
-[![Rasel Comel](https://github.com/raselcomel.png?size=100)](https://github.com/raselcomel)
-[![Amirul Dev](https://github.com/amiruldev20.png?size=100)](https://github.com/amiruldev20)
-[![Amelia Lisa](https://github.com/Ameliascrf.png?size=100)](https://github.com/Ameliascrf)
-[![𝚃𝚑𝚎.𝚂𝚊𝚍.𝙱𝚘𝚢𝟶𝟷](https://github.com/Kangsad01.png?size=100)](https://github.com/Kangsad01)
-[![bot xtrehse](https://github.com/xtreshebot.png?size=100)](https://github.com/xtreshebot)
+## ```Recode By ✏️```
+[![Khasan dev.01](https://telegra.ph/file/2bf3cabe7c337c5479172.jpg)](https://github.com/Kasanstore7)
