@@ -7,9 +7,7 @@ Script ini gratis untuk semua orang, bukan untuk Dijual. Jika dijual neraka menu
 
 ## PENTING
 
-> **Warning**: Script Ini Tidak Support Qr Untuk Saat Ini, Jadi Kalian Bisa Menggunakan Replit Untuk Mengambil Session Atau
-Memakai Sc Lain Untuk Mengambil Sessions Atau ambil sessions di https://replit.com/@tioclkp02/sessions
-
+> **Warning**: "Jangan dijual lah Woi hargai kami yang udah susah payah bikin script dan di public , malah dijual"
 <h1 align="center">Saxia - MD</h1>
 <p align="center">
   <a href="https://github.com/Kasanstore7"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Sanara+BOT+Multi+Device;Base+ori+by+Botcahx;Recode+By+Khasan dev;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="ʘᴗʘ">
