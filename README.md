@@ -30,7 +30,7 @@ Script ini gratis untuk semua orang, bukan untuk Dijual. Jika dijual neraka menu
 ### a little about this bot
 - ✔️ | **Simple** 
 - ✔️ | **Button Template** 
-- ✔️ | **Multi Auth** 
+- ✔️ | **Multi Device** 
 - ✔️ | **Button Document(Experiment)** 
 ---------
 ### Some of the features include
